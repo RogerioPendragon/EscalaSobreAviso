@@ -1,0 +1,8 @@
+C:\Users\Rogerio\source\repos\Escalasobreaviso\Escalasobreaviso\bin\Debug\Escalasobreaviso.exe.config
+C:\Users\Rogerio\source\repos\Escalasobreaviso\Escalasobreaviso\bin\Debug\Escalasobreaviso.exe
+C:\Users\Rogerio\source\repos\Escalasobreaviso\Escalasobreaviso\bin\Debug\Escalasobreaviso.pdb
+C:\Users\Rogerio\source\repos\Escalasobreaviso\Escalasobreaviso\obj\Debug\Escalasobreaviso.csproj.CoreCompileInputs.cache
+C:\Users\Rogerio\source\repos\Escalasobreaviso\Escalasobreaviso\obj\Debug\Escalasobreaviso.exe
+C:\Users\Rogerio\source\repos\Escalasobreaviso\Escalasobreaviso\obj\Debug\Escalasobreaviso.pdb
+C:\Users\Rogerio\source\repos\EscalaSobreAviso\Escalasobreaviso\obj\Debug\Escalasobreaviso.csprojAssemblyReference.cache
+C:\Users\Rogerio\source\repos\EscalaSobreAviso\Escalasobreaviso\obj\Debug\Escalasobreaviso.csproj.ResolveComReference.cache
