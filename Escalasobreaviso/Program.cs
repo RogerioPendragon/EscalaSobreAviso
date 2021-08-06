@@ -68,7 +68,6 @@ namespace Escalasobreaviso
                 }
                 else if (diasemana == 6)
                 {
-                    //ws.Cells[indiceplanilha, 1] = data;
                     ws.Cells[indiceplanilha, 1] = data;
                     ws.Cells[indiceplanilha, 2] = nomediasemana;
                     ws.Cells[indiceplanilha, 3] = nome[contador];
@@ -79,7 +78,6 @@ namespace Escalasobreaviso
                 }
                 else if (diasemana==1)
                 {
-                    //ws.Cells[indiceplanilha, 1] = data;
                     ws.Cells[indiceplanilha, 1] = data;
                     ws.Cells[indiceplanilha, 2] = nomediasemana;
                     ws.Cells[indiceplanilha, 3] = nome[contador];
@@ -90,7 +88,6 @@ namespace Escalasobreaviso
                 }
                 else
                 {
-                    //ws.Cells[indiceplanilha, 1] = data;
                     ws.Cells[indiceplanilha, 1] = data;
                     ws.Cells[indiceplanilha, 2] = nomediasemana;
                     ws.Cells[indiceplanilha, 3] = nome[contador];
@@ -98,12 +95,11 @@ namespace Escalasobreaviso
                     ws.Cells[indiceplanilha, 5] = plantao;
                     ws.Cells[indiceplanilha, 6] = escala;
                     indiceplanilha = indiceplanilha + 1;
-                    //Console.WriteLine(data + "---" + nomediasemana + "---" + nome[contador] + "---" + matriculas[contador] + "---" + plantao + "---" + escala);
                 }
                 dataini = dataini.AddDays(1);
             }
             excel.Visible = true;
-            //Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
